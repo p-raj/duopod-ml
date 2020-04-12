@@ -1,0 +1,27 @@
+{"voice_list":  {
+  "en": {
+      "languageCodes": "en-US",
+      "name": "en-US-Wavenet-D",
+      "ssmlGender": "MALE",
+      "naturalSampleRateHertz": 24000
+    },
+  "fr": {
+      "languageCodes": "fr-FR",
+      "name": "fr-FR-Wavenet-C",
+      "ssmlGender": "FEMALE",
+      "naturalSampleRateHertz": 24000
+    },
+  "de": {
+      "languageCodes": "de-DE",
+      "name": "de-DE-Wavenet-D",
+      "ssmlGender": "MALE",
+      "naturalSampleRateHertz": 24000
+    },
+  "hi": {
+      "languageCodes": "hi-IN",
+      "name": "hi-IN-Wavenet-C",
+      "ssmlGender": "MALE",
+      "naturalSampleRateHertz": 24000
+    }
+}
+}
